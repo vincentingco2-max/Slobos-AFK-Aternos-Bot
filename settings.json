@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "KINGANDREYABELLAR.aternos.me",
     "port": 22339,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
